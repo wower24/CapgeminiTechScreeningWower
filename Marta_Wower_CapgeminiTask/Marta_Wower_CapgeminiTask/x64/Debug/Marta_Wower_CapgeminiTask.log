@@ -1,0 +1,6 @@
+﻿  Marta_Wower_CapgeminiTask.cpp
+  phone.cpp
+C:\Users\marta\Desktop\capgemini\CapgeminiTechScreeningWower\Marta_Wower_CapgeminiTask\Marta_Wower_CapgeminiTask\phone.cpp(14,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+phone.obj : error LNK2005: "class std::vector<class Phone,class std::allocator<class Phone> > phones" (?phones@@3V?$vector@VPhone@@V?$allocator@VPhone@@@std@@@std@@A) already defined in Marta_Wower_CapgeminiTask.obj
+C:\Users\marta\Desktop\capgemini\CapgeminiTechScreeningWower\Marta_Wower_CapgeminiTask\x64\Debug\Marta_Wower_CapgeminiTask.exe : fatal error LNK1169: one or more multiply defined symbols found
